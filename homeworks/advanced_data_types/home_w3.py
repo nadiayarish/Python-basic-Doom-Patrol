@@ -112,8 +112,6 @@ def foo(x, y, z):
         return z
     else:
         return y
-
-
 print(foo(5, 8, 9))
 # 20. Sort lst_to_sort from min to max
 lst_to_sort = [5, 18, 1, 24, 33, 15, 13, 55]

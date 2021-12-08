@@ -64,7 +64,7 @@ class Bear:
         self.sound = sound
 
     def make_sound(self):
-        print(self.sound)
+        return (self.sound)
 
 class Wolf:
 
@@ -72,10 +72,35 @@ class Wolf:
         self.sound = sound
 
     def make_sound(self):
-        print(self.sound)
+        return (self.sound)
 
-Bear_ex = Bear ("Grrr")
-Wolf_ex = Wolf ("Wooo")
-tuple = (Bear_ex, Wolf_ex)
-for sound in tuple:
-    print(make_sound())
+bears = Bear('Grrr')
+wolfs = Wolf('Wooo')
+animals = (bears, wolfs)
+
+for sound in animals:
+    print(sound.make_sound())
+
+#Optional: 8*. Create class City with name, population instance attributes, return a new instance only when population > 1500,
+#otherwise return message: "Your city is too small". Hint: use magic methods / patterns
+
+class City:
+    def __init__(self, name, population):
+        self.name = name
+        self.population = population
+
+    def __call__(self):
+        if self.population < 1500:
+            print(f"Your city {self.name} is too small")
+        else:
+            print("Your city is city!")
+
+Some_city = City('Murtyki', 100)
+My_city = City('Stryi', 70000)
+
+cities = (Some_city, My_city)
+
+for population_check in cities:
+    population_check()
+
+

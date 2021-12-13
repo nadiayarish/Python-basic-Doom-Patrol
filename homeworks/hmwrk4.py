@@ -85,22 +85,30 @@ for sound in animals:
 #otherwise return message: "Your city is too small". Hint: use magic methods / patterns
 
 class City:
+
+    def __new__(cls, name, population):
+        if population < 1500:
+            print("Your city is too small")
+        else:
+            return object.__new__(cls)
+
     def __init__(self, name, population):
         self.name = name
         self.population = population
 
-    def __call__(self):
-        if self.population < 1500:
-            print(f"Your city {self.name} is too small")
-        else:
-            print("Your city is city!")
+    def population_info(self):
+        return self.population
+
 
 Some_city = City('Murtyki', 100)
 My_city = City('Stryi', 70000)
 
+
 cities = (Some_city, My_city)
 
-for population_check in cities:
-    population_check()
+for i in cities:
+    print(i)
+
+
 
 

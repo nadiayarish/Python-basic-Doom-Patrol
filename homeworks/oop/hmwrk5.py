@@ -1,7 +1,4 @@
 # 1
-from typing import Any
-
-
 class Laptop:
     def __init__(self):
         battery_state1 = Battery("Charging")

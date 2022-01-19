@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f06b4c8-385b-48b2-889f-0b4349778a01" name="Changes" comment="Done.">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2022_14_31_[Changes]/Python-basic-Doom-Patrol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2022_14_35_[Changes]/Python-basic-Doom-Patrol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-basic-Doom-Patrol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/advanced_data_types/home_w3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/advanced_data_types/hw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/git/hw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/hmwrk4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/hmwrk8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/linux/hw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/oop/hmwrk5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/oop/oop_part_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/oop/oop_part_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/built-in-funcs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/comprehensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/func_style.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/mutable_immutable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/sandbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/string_formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/agregassion_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/classmethod_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/composition_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/dataclasses_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/encapsulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/getter_setter_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/instance_of_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/multiple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/named_tuple_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/polymorphism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/property_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/slots_ex.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23b1Go3VzjOmKHKmNbKHqv8GKox" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.hmwrk9">
+    <configuration name="def_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Nadiya\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/def_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_wrk8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Nadiya\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-basic-Doom-Patrol/homeworks/workWithFiles" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-basic-Doom-Patrol/homeworks/workWithFiles/hm_wrk8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hmwrk8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Nadiya\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/hmwrk8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hmwrk9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Nadiya\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-basic-Doom-Patrol/homeworks/workWithFiles" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-basic-Doom-Patrol/homeworks/workWithFiles/hmwrk9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.hmwrk8" />
+      <item itemvalue="Python.def_file" />
+      <item itemvalue="Python.hm_wrk8" />
+      <item itemvalue="Python.hmwrk9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hmwrk9" />
+        <item itemvalue="Python.hm_wrk8" />
+        <item itemvalue="Python.hmwrk8" />
+        <item itemvalue="Python.def_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f06b4c8-385b-48b2-889f-0b4349778a01" name="Changes" comment="" />
+      <created>1641987886488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641987886488</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Done.">
+      <created>1641988198929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641988198929</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done.">
+      <created>1641988501433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641988501433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done.">
+      <created>1641990697660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641990697660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Done." />
+  </component>
+</project>

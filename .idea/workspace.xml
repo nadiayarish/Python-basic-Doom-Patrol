@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f06b4c8-385b-48b2-889f-0b4349778a01" name="Changes" comment="Done.">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2022_14_31_[Changes]/Python-basic-Doom-Patrol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2022_14_35_[Changes]/Python-basic-Doom-Patrol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-basic-Doom-Patrol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/advanced_data_types/home_w3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/advanced_data_types/hw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/git/hw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hmwrk4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/hmwrk8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/linux/hw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/oop/hmwrk5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/oop/oop_part_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/oop/oop_part_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/built-in-funcs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/comprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/func_style.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/mutable_immutable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/sandbox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/advanced_data_types/string_formatting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/agregassion_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/classmethod_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/composition_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/dataclasses_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/encapsulation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/getter_setter_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/instance_of_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/multiple_inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/named_tuple_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/polymorphism.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/property_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/oop/slots_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641990697660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done.">
+      <created>1642595842684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642595842684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

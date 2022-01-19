@@ -1,8 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f06b4c8-385b-48b2-889f-0b4349778a01" name="Changes" comment="Done.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0f06b4c8-385b-48b2-889f-0b4349778a01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2022_14_31_[Changes]/Python-basic-Doom-Patrol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2022_14_35_[Changes]/Python-basic-Doom-Patrol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/argsparser_serialization/hw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/decorators/hw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/decorators_practice/hw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/exceptions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/oop/hmwrk5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/oop/oop_part_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/oop/oop_part_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/testing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/testing2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/workWithFiles/homework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/addresses.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/argsparser_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/csv_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/getopt_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/json_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/repr_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/serialization_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/sysargv_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/argsparser_serialization/yaml_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorator_practice/tasks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/decor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/decor_as_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/decor_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/decor_func_with_params.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/inner_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/multiple_decor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/pass_args_to_decor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/usecases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/decorators/wraps_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/abstract_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/generator_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/iterator_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop/metaclasses_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/oop_practice/garden.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/functions_for_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/functions_pytest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/test_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/test_pytest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/database/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/database1/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/database1/users1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/test_user_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/user_app.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/testing/userApp/user_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/database/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/database1/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/database1/users1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/user_app.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/userApp/user_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/workWIthFIles/files/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/workWIthFIles/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/workWIthFIles/userApp/database/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/workWIthFIles/userApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/workWIthFIles/userApp/user_functions.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +103,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.hmwrk9">
+  <component name="RunManager" selected="Python.hmwrk8">
     <configuration name="def_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642595842684</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixup! Done.">
+      <created>1642596877082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642596877082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +264,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Done." />
+    <MESSAGE value="fixup! Done." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! Done." />
   </component>
 </project>
